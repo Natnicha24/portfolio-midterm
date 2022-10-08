@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: lightcoral;
+}
+.topichr{
+    height: 15px;
+    background-color: aquamarine;
+}
+div{
+    text-align: center;
+}
